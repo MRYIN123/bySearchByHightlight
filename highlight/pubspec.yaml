@@ -1,7 +1,7 @@
 name: highlight
 description: A new Flutter package project.
 version: 0.0.1
-homepage:
+homepage: https://github.com/MRYIN123/bySearchByHightlight.git
 
 environment:
   sdk: ">=2.16.2 <3.0.0"
